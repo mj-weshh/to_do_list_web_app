@@ -1,0 +1,35 @@
+body{
+     background-color: #557174;
+     color: #f7f7e8;
+     font-family: Arial, Helvetica, sans-serif;
+     padding: 0;
+     margin: 0;
+}
+.title{
+     text-align: center;
+}
+form{
+     padding-bottom: 20px;
+}
+.container{
+     margin: 30px auto;
+     padding: 20px;
+     background-color: #9dad7f;
+     border-radius: 5px;
+     color: #f7f7e8;
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     justify-content: center;
+     max-width: 500px;
+}
+button{
+     color: #f7f7e8;
+     background-color: #557174;
+     border-radius: 5px;
+}
+#taskInput{
+     border-radius: 5px;
+     color: black;
+     background-color: #f7f7e8;
+}
